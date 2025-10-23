@@ -15,19 +15,19 @@
 
 
 ### 🔢 Unidad 2: Estructuras de Control
-[Ir a la carpeta Unidad 1](unidad1.md)
+[Ir a la carpeta Unidad 2](unidad2.md)
 
 ### ⚙️ Unidad 3: Funciones y Modularidad
-[Ir a la carpeta Unidad 1](unidad1.md)
+[Ir a la carpeta Unidad 3](unidad3.md)
 
 
 ### 🧠 Conclusiones
-[Ir a la carpeta Unidad 1](unidad1.md)
+
 
 
 ### 📚 Referencias
-[Ir a la carpeta Unidad 1](unidad1.md)
+
 
 
 ### 🤖 Uso de IA Generativa
-[Ir a la carpeta Unidad 1](unidad1.md)
+
