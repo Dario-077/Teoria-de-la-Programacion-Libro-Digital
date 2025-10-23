@@ -2,7 +2,7 @@
 ## 💻 Portafolio Digital de Aprendizaje 
 
 ### 🧩 Unidad 1:
-
+[Ir a la carpeta Unidad 1](unidad1.md)
 
 
 ### 🔢 Unidad 2: Estructuras de Control
