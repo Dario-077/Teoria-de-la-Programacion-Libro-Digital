@@ -1,4 +1,13 @@
 # 🎓 Teoría de la Programación  
+**Nombre:** Dario Chillogallo  
+
+**Asignatura**: Teoria de la Programación  
+
+**Docente:** PhD. Lissette Lopez  
+
+**Periodo:** Septiembre 2025 - Febrero 2026  
+
+
 ## 💻 Portafolio Digital de Aprendizaje 
 
 ### 🧩 Unidad 1:
