@@ -28,7 +28,7 @@
 
 
 ### 📚 Referencias
-
+[Haga click para acceder a "Referencias"](referencias.md)
 
 
 ### 🤖 Uso de IA Generativa
