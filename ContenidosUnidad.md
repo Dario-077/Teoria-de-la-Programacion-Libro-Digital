@@ -12,5 +12,7 @@ La programación por bloques es una forma de programar que usa bloques visuales 
 
 ## Ejemplos de algoritmos con Estructuras lineales/secuenciales.
 
+[Click para ver los ejercicios](ejercicios.md)
+
 ## Principales dificultades en la aplicación de los contenidos.
 ## Reflexión crítica de los aprendizajes de la unidad.
