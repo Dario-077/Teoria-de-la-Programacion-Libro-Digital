@@ -16,10 +16,10 @@
 [Ir a la carpeta Unidad 1](unidad1.md)
 
 
-### 🔢 Unidad 2: Estructuras de Control
+### 🔢 Unidad 2:
 [Ir a la carpeta Unidad 2](unidad2.md)
 
-### ⚙️ Unidad 3: Funciones y Modularidad
+### ⚙️ Unidad 3: 
 [Ir a la carpeta Unidad 3](unidad3.md)
 
 
