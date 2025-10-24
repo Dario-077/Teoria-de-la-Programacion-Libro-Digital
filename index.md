@@ -1,4 +1,6 @@
-# 🎓 Teoría de la Programación  
+# Universidad Nacional de Loja
+# Facultad de la Energia, las Industrias y los Recursos Naturales No Renovables
+# 🎓 Teoría de la Programación - Ingenieria en Computación 
 **Nombre:** Dario Chillogallo  
 
 **Asignatura**: Teoria de la Programación  
