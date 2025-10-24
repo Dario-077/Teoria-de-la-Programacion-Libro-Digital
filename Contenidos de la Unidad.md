@@ -1,4 +1,4 @@
-(Regresar a la pagina anterior)[unidad1.md]
+[Regresar a la pagina anterior](unidad1.md)
 ## Algoritmos, pseudocódigo,
 ## Diagrama de flujo.
 ## Programación por bloques.
