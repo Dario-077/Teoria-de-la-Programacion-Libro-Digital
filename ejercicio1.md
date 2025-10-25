@@ -1,4 +1,5 @@
-## Ejercicio 1
+## Ejercicio 1  
+[Pagina anterior](ejercicios.md)
 
 Un estudiante de la carrera de Computación necesita sacar el promedio de sus notas de la Unidad 1 en la asignatura Teoria de la Programación
 para ello debe basarse en la siguiente rubrica
@@ -44,3 +45,8 @@ EVALUACIÓN: 35% ¿Cual seria el promedio sobre 10?
 	promedio <- ponderadoAcd+ponderadoApe+ponderadoAa+ponderadoEvaluacion
 	Escribir 'El promedio de la Unidad 1 es: ', promedio
 FinAlgoritmo
+
+📊 **Diagrama de flujo**
+<img width="3260" height="1535" alt="ejercicio1diagrama" src="https://github.com/user-attachments/assets/3a5e3abf-064a-4879-8b9a-dd4791369e93" />
+
+💻 **Código en C**
