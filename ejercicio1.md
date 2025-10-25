@@ -1,4 +1,4 @@
-## Ejercicio 1  
+## Ejercicio 1   
 [Pagina anterior](ejercicios.md)
 
 Un estudiante de la carrera de Computación necesita sacar el promedio de sus notas de la Unidad 1 en la asignatura Teoria de la Programación
