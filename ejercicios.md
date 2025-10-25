@@ -10,7 +10,40 @@ EVALUACIÓN: 35%
 
 📝 **Pseudocódigo**
 
+Definir ACD, APE, AA, EVALUACION, promedio, ponderadoAcd, ponderadoApe, ponderadoAa,ponderadoEvaluacion, notaAcd, notaApe, notaAa, notaEvaluacion Como Real
+	ACD = 0.2
+	APE = 0.25
+	AA = 0.2
+	EVALUACION = 0.35
+	
+	//Entrada
+	
+	Escribir "Escriba la nota del ACD"
+	Leer notaAcd
+	ponderadoAcd = notaAcd * ACD
+	
+	Escribir "Escriba la nota del APE"
+	Leer notaApe
+    ponderadoApe = notaApe * APE
+	
+	Escribir "Escriba la nota del AA"
+	Leer notaAa
+	ponderadoAa = notaAa * AA
+	
+	Escribir "Escriba la nota de la evaluacion"
+	Leer notaEvaluacion
+	ponderadoEvaluacion = notaEvaluacion * EVALUACION
+	
+	//Salida
+	promedio = ponderadoAcd + ponderadoApe + ponderadoAa + ponderadoEvaluacion
+	
+	Escribir "El promedio de la Unidad 1 es: ", promedio
+	
+FinAlgoritmo
+
 📊 **Diagrama de flujo**
+[Click aqui para ver el diagrama de flujo del ejercicio 1](libro_digital_ejercicio1_diagrama_flujo)
+
 💻 **Código en C**
 ⚡ **Observaciones**
 
