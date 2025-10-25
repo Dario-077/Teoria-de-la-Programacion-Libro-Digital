@@ -50,3 +50,49 @@ FinAlgoritmo
 <img width="3260" height="1535" alt="ejercicio1diagrama" src="https://github.com/user-attachments/assets/3a5e3abf-064a-4879-8b9a-dd4791369e93" />
 
 💻 **Código en C**
+
+#include <stdio.h>
+#include <math.h>
+
+int main(){
+
+	// ACD: 20 MOD
+	// APE: 25 MOD
+	// AA: 20 MOD
+	// EVALUACIÓN: 35 MOD    ¿Cual seria el promedio sobre 10?
+
+	// Variables y Constantes
+
+    float promedio, ponderadoAcd, ponderadoApe;
+    float ponderadoAa, ponderadoEvaluacion, notaAcd, notaApe, notaAa, notaEvaluacion;
+
+    // Entrada
+
+    printf("Ingrese la nota del ACD: \n");
+    scanf("%f", &notaAcd);
+
+    printf("Ingrese la nota del APE: \n");
+    scanf("%f", &notaApe);
+
+    printf("Ingrese la nota del AA: \n");
+    scanf("%f", &notaAa);
+
+    printf("Ingrese la nota de la evaluacion: \n");
+    scanf("%f", &notaEvaluacion);
+
+    // Proceso
+
+    ponderadoAcd = notaAcd * 0.2;
+    ponderadoApe = notaApe * 0.25;
+    ponderadoAa = notaAa * 0.2;
+    ponderadoEvaluacion = notaEvaluacion * 0.35;
+
+    // Salida
+
+    promedio = ponderadoAcd + ponderadoApe + ponderadoAa + ponderadoEvaluacion;
+
+    printf("Su nota es: %f", promedio);
+
+    return 0;
+
+}
