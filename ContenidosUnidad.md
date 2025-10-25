@@ -19,4 +19,13 @@ Una de las principales dificultades al momento de comprender y poner en practica
 Hay que aclarar que las dificultades anteriormente mencionadas se estan superando gracias a la practica de ejercicios, la invención de algoritmos y de su respectiva solución y por supuesto, con mucho entusiasmo y ganas de aprender.
 
 ## Reflexión crítica de los aprendizajes de la unidad.  
+1. En el transcurso de esta unidad comprendi que el pseudocódigo es la base de todos los estudios de la programación, logrando su objetivo por medio de herramientas de pseudocódigo y diagramas de flujo, en nuestro caso con ayuda de Pseint, una de las habilidades que se estan comenando a forjar en mi son el representar de forma lógica y ordenada la secuencia de pasos (algoritmo) necesaria para resolver un problema antes de traducir al lenguaje comoputacional y como efecto dominó esto desarrolla un poensamiento mas crítico, analítico y estructurado.
+2. El proceso de instalación y configuración, acorde a las necesidades, de Visual Studio, C y el copilador msys64, me permite dar los primeros pasos en un entorno de programación avanzada, aplicando los conocimientos teoricos a un entorno de problemas más realistas, haciendome más consciente de como las herramientas adecuadas influyen en la comprensión del código.
+3. El primer acercamiento a la construción de algoritmos con estructuras secuenciales me permite reconocer que los programas más complejos siempre van a partir de bases simples y sobre todo lógicas. Cada instrucción dada cumple una función especifica dentro del código, demostrando asi una armonia al momento de la ejecución
+4. Al pasar del diseño del algoritmo a la construcción del programa, experimente la transición total de la teoría a la práctica, mostrandome como una idea bien esteucturada en pseudocódigo puede llegar a evolucionar a un programa funcional. Fortaleciendo asi mi capacididad analitica y planificadora, ejecutando asi mis primeras soluciones computacionales
+
+   
+
+
+
 
