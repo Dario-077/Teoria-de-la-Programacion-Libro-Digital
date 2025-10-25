@@ -1,6 +1,6 @@
-# Ejercicios de ejemplificación (Pseint y C)
+# 🔹Ejercicios de ejemplificación (Pseint y C)
 
-Para mejorar la visualizacion se ha creado una carpeta para cada ejercicio.  
+🧠Para mejorar la visualizacion se ha creado una carpeta para cada ejercicio.  
 En cada carpeta esta el pseudocodigo en Pseint, el diagrama de flujo y el código de C
 
 [Ejercicio 1](ejercicio1.md)  
@@ -14,4 +14,4 @@ En cada carpeta esta el pseudocodigo en Pseint, el diagrama de flujo y el códig
 
 
 
-[Click aqui para volver al Index](index.md)
+⬅️[Click aqui para volver al Index](index.md)
