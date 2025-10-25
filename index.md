@@ -33,3 +33,5 @@
 
 ### 🤖 Uso de IA Generativa
 
+[Ir a declaracion de uso de IA](usoIA.md)
+
