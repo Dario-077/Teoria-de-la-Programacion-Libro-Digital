@@ -1,5 +1,5 @@
 # Ejercicio 2  
-Determinar si un numero es positivo o negativo
+🔥Determinar si un numero es positivo o negativo
 
 ## Pseudocodigo
 
