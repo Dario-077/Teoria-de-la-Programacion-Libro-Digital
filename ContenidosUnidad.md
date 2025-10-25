@@ -15,6 +15,8 @@ La programación por bloques es una forma de programar que usa bloques visuales 
 [Click para ver los ejercicios](ejercicios.md)
 
 ## Principales dificultades en la aplicación de los contenidos.  
-Una de las principales dificultades al momento de comorender y poner en practica los contenidos vistos en esta unidad seria el acercamiento a los lenguajes de programacion, hablando principalmente de su sintaxis y las palabras clave que provienen del inglés, esto, debido a la inexperiencia con la que mi persona contaba, sin embargo, gracias a las clases y explicación de la docente se han ido superando.  
+Una de las principales dificultades al momento de comprender y poner en practica los contenidos vistos en esta unidad seria el acercamiento a los lenguajes de programacion, hablando principalmente de su sintaxis y las palabras clave que provienen del inglés, esto, debido a la inexperiencia con la que mi persona contaba, sin embargo, gracias a las clases y explicación de la docente se han ido superando.  
+Hay que aclarar que las dificultades anteriormente mencionadas se estan superando gracias a la practica de ejercicios, la invención de algoritmos y de su respectiva solución y por supuesto, con mucho entusiasmo y ganas de aprender.
 
-## Reflexión crítica de los aprendizajes de la unidad.
+## Reflexión crítica de los aprendizajes de la unidad.  
+
