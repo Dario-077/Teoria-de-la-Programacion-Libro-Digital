@@ -8,9 +8,8 @@
 En este apartado se mostraran todas las actividades que hemos trabajado en la unidad 1  
 [Link del Drive con las actividades](https://drive.google.com/drive/u/0/folders/1mNkPwkfo2wiEtqsMTe4UwS2PaPNI75ff)
 
-
-
-Herramientas de algoritmos (pseudocódigo y diagramas de fl ujo).
+** 1. Herramientas de algoritmos (pseudocódigo y diagramas de fl ujo).**
+   En esta actividad entramos en lo que son las herramientas de pseudocodigo, eligiendo Pseint, lo definimos, mostramos sus caracteristicas, debilidades, fortalezas y ejemplificamos todo con un algoritmo sencillo y un diagrama de flujo
 ● Instalación de lenguajes de programación (C, Python o Java).
 ● Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigoTarea
 ● Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
