@@ -46,6 +46,11 @@ Elaborar el pseudocódigo que describiera la solución paso a paso
 
 Representar el algoritmo con un diagrama de flujo
 
-Realizar pruebas de escritorio para verificar su correcto funcionamiento
+Realizar pruebas de escritorio para verificar su correcto funcionamiento  
 
 💡 Esta práctica fortaleció la capacidad de análisis, estructuración y validación de soluciones computacionales.
+
+**4.Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**
+
+💡 La actividad más completa de toda la UNIDAD porque vemos todo los temas, desde pseudocodigo, diagrama de flujo y lenguajes de programació, además que se requirio de un gran analisis para hallar la respuesta y la forma de conseguirla.
+Demostramos todos los conomientos adquiridos mediante estapráctica
