@@ -1,4 +1,2 @@
- Diagrama de flujo ejercicio 1 s
-<img width="3260" height="1535" alt="ejercicio1diagrama" src="https://github.com/user-attachments/assets/3a5e3abf-064a-4879-8b9a-dd4791369e93" />
-
-
+Imagen Programación por bloques
+[Programacion por bloques](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4b5f0b3c-825a-47be-afde-4f4571bb38bd" />)
