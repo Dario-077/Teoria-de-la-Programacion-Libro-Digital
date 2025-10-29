@@ -14,7 +14,9 @@ Y ahora si hablamos de pseudocodigo, este es el pasaje que existe entre el lengu
 Por definición, un diagrama de flujo es la representación gráfica del flujo o secuencia de rutinas simples.Tiene la ventaja de indicar la secuencia del proceso en cuestión, las unidades involucradas y los responsables de su ejecución, es decir , viene a ser la representación simbólica o pictórica de un procedimiento [3]. Y es usado en la computación para representar algoritmos de una forma más didáctica y visual.
 
 ## 🔹 Programación por bloques.
-La programación por bloques es una forma de programar que usa bloques visuales de colores en lugar de escribir código tradicional, facilitando la creación de programas al permitir arrastrar y unir estos bloques para dar instrucciones. Es una metodología ideal para principiantes, ya que es más intuitiva y no requiere conocimientos de sintaxis compleja. [4]. Debemos recordar que esto es otra forma de Pseudocodigo, pues, no abarca un lenguaje 100% computacional, además, al ser tan visual demuestra un objetivo más bien estético permitiendo asi a los más jovenes que den sus primeros pasos en la programación
+La programación por bloques es una forma de programar que usa bloques visuales de colores en lugar de escribir código tradicional, facilitando la creación de programas al permitir arrastrar y unir estos bloques para dar instrucciones. Es una metodología ideal para principiantes, ya que es más intuitiva y no requiere conocimientos de sintaxis compleja. [4]. Debemos recordar que esto es otra forma de Pseudocodigo, pues, no abarca un lenguaje 100% computacional, además, al ser tan visual demuestra un objetivo más bien estético permitiendo asi a los más jovenes que den sus primeros pasos en la programación  
+
+[Ejemplo de Programacion por bloques](imagenes.md)
 
 ## 🔹Ejemplos de algoritmos con Estructuras lineales/secuenciales.
 
