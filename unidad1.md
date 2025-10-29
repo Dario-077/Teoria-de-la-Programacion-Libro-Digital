@@ -7,7 +7,7 @@
 
 ## Tareas entregadas  
 En este apartado se mostraran todas las actividades que hemos trabajado en la unidad 1  
-👉[Link del Drive con las actividades](https://drive.google.com/drive/u/0/folders/1mNkPwkfo2wiEtqsMTe4UwS2PaPNI75ff)
+👉[Link del Drive con las actividades](https://drive.google.com/drive/folders/1mNkPwkfo2wiEtqsMTe4UwS2PaPNI75ff?usp=sharing)
 
 Lista con las actividades y una descripción rapida de las mismas
 
