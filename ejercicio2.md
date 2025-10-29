@@ -25,7 +25,7 @@ Algoritmo Libro_Digital_ejercicio2
 		Escribir "El numero es negativo"
 	FinSi
 	
-FinAlgoritmo
+FinAlgoritmo 
 
 ## Diagrama de flujo
 <img width="842" height="813" alt="ejercicio2diagrama" src="https://github.com/user-attachments/assets/082be87f-7e60-46ac-af15-14b77f525e4a" />
