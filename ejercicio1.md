@@ -8,7 +8,9 @@ APE: 25%
 AA: 20%
 EVALUACIÓN: 35% ¿Cual seria el promedio sobre 10?
 
-📝 Pseudocódigo
+## 📝 Pseudocódigo: 
+Se representara este algoritmo por medio de Pseudocódigo usando los conocimientos adquiridos en clase  
+Herramienta usada: Pseint
 
 	// ACD: 20 MOD
 	// APE: 25 MOD
@@ -50,10 +52,15 @@ EVALUACIÓN: 35% ¿Cual seria el promedio sobre 10?
 FinAlgoritmo  
 
 
-📊 **Diagrama de flujo**
+## 📊 Diagrama de flujo:  
+Usando la herramienta Pseint se representa el pseudocódigo a manera de diagrama de flujo, dandonos un contenido mucho más visual y estético  
+
+**Imagen 2** 
 <img width="3260" height="1535" alt="ejercicio1diagrama" src="https://github.com/user-attachments/assets/3a5e3abf-064a-4879-8b9a-dd4791369e93" />
 
-💻 **Código en C**
+## 💻 Código en C:  
+El algoritmo presentado a inicios de esta página sera trasladado a un lenguaje de programación C, adaptandolo a la sintaxis y lógica del mismo
+
 
 #include <stdio.h>  
 
