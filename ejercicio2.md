@@ -1,7 +1,8 @@
 # Ejercicio 2  
 🔥Determinar si un numero es positivo o negativo
 
-## Pseudocodigo
+## Pseudocodigo  
+Con el ejercicio 2, el primer paso es representarlo en pseudocódigo que vendria siendo una forma de plasmar los primeros conocimientos adquiridos en la unidad 1
 
 Algoritmo Libro_Digital_ejercicio2
 	
@@ -27,10 +28,14 @@ Algoritmo Libro_Digital_ejercicio2
 	
 FinAlgoritmo 
 
-## Diagrama de flujo
+## Diagrama de flujo  
+Usando la misma herramienta de 	Pseint se convierte el Pseudocódigo a diagrama de flujo  
+**Imagen 3:**
 <img width="842" height="813" alt="ejercicio2diagrama" src="https://github.com/user-attachments/assets/082be87f-7e60-46ac-af15-14b77f525e4a" />
 
-## Codigo en C
+## Codigo en C  
+Finalmente, el pseudocódigo es llevado a C, un lenguaje de programación, adaptando la sintaxis, lógica y comandos. LLegando al punto final de muestros conocimientos  
+
 
 #include <stdio.h>  
 
