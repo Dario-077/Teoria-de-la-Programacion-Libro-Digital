@@ -30,7 +30,8 @@ FinAlgoritmo
 
 ## Diagrama de flujo  
 Usando la misma herramienta de 	Pseint se convierte el Pseudocódigo a diagrama de flujo  
-**Imagen 3:**
+**Imagen 3:**  
+
 <img width="842" height="813" alt="ejercicio2diagrama" src="https://github.com/user-attachments/assets/082be87f-7e60-46ac-af15-14b77f525e4a" />
 
 ## Codigo en C  
