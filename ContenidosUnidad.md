@@ -15,7 +15,6 @@ Por definición, un diagrama de flujo es la representación gráfica del flujo o
 
 ## 🔹 Programación por bloques.
 La programación por bloques es una forma de programar que usa bloques visuales de colores en lugar de escribir código tradicional, facilitando la creación de programas al permitir arrastrar y unir estos bloques para dar instrucciones. Es una metodología ideal para principiantes, ya que es más intuitiva y no requiere conocimientos de sintaxis compleja. [4]. Debemos recordar que esto es otra forma de Pseudocodigo, pues, no abarca un lenguaje 100% computacional, además, al ser tan visual demuestra un objetivo más bien estético permitiendo asi a los más jovenes que den sus primeros pasos en la programación  
-Imagen 1:
 
 [Ejemplo de Programacion por bloques](imagenes.md)
 
