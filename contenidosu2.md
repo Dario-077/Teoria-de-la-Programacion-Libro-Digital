@@ -75,7 +75,7 @@ int main(){}
 <img width="544" height="375" alt="image" src="https://github.com/user-attachments/assets/05f9fe15-1671-48b2-b721-be7a49647819" />
 
 
-## Switch (Condicional casacada)  
+## Switch (Condicional cascada)  
 ### Definición  
 Condicional usado en caso de un algoritmo de seleccion multiple, es obligatorio asignarle un valor al que se regira el Switch, puede ser una variable, además, se le ingresara la lista de los posibles casos de respuestas y el bloque de código perteneciente a cada una de las mismas.  
 OJO: Es importante agregar la palabra reservada "default" en caso de que no se asigne ningun valor esperado y agregar su respectivas instrucciones. En adicion se agrega la palabra "break", para indicar el fin de un caso
@@ -136,6 +136,8 @@ int main(void){
 
     return 0;
 #### Diagrama de flujo  
+<img width="678" height="328" alt="image" src="https://github.com/user-attachments/assets/a78f953c-32d7-43af-8ef4-ca5b9647d0ce" />
+
 
 # Estructuras repetitivas o Bucles  
 ## While  
@@ -146,8 +148,27 @@ La estructura While funciona en base de una condicion especifica, el programa pr
 - Plantear bien la sintaxis para que no se ejcute un bucle infinito
 ### Estructura 
 <img width="255" height="156" alt="image" src="https://github.com/user-attachments/assets/3c8bc75a-9bc5-4330-b825-088b81114493" />   
+### Ejercicio  
+#### Contextualizacion
+Algoritmo que permita visualizar la tabla del 6
+#### Código en C:  
+int numero, producto, MULTIPLICADOR;
+    
+    numero = 0;
+    MULTIPLICADOR = 6;
+    
+    printf("La tabla del 6 es: \n ");
 
-  
+    while(numero <= 11){
+        numero += 1;
+        producto = numero * MULTIPLICADOR;
+        printf(" %i * %i = %i \n", numero, MULTIPLICADOR, producto);
+        
+    }
+    return 0;
+    }
+#### Diagrama de flujo:  
+
 ## Do- While  
 ### Definicion  
 Un bucle que ejecuta un bloque de código hasta que la condicion evaluada sea False. Es similar al While, sin embargo en este se toma en cuenta en que si o si se ejecutara al menos una vez las instrucciones, despues de esa primera ejecucion, se verificara si la condicion es correcta.  
