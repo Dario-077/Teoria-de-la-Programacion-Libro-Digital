@@ -6,8 +6,8 @@
   La estructura condicional If nos indica una condición, esta sera evaluada como un dato booleano, si este resulta verdadero el bloque de código se jecutara, caso contrario el programa pasa a la siguiente linea
 ### Estructura:
 - If (condición){
-         bloque se código
-        }
+    bloque se código
+        }   
   OJO: Puede haber más de una instrucción
  ### Ejemplo   
 
@@ -15,11 +15,9 @@
 ### Definicion  
 Es un complemento de la estructura "If", mantiene la lógica de ejecución mediante el resultado de una condición, sin embargo, aqui se agrega la palabra reservada *else* que contiene la instrucción que se ejecutara en caso de que la condición inciial resulte falsa  
 ### Estructura  
-If (Condición){
-  bloque de código
-  } else {
-    bloque de código secundario
-    }   
+
+
+
 ###  Ejemplo    
 
 ## Switch (Condicional casacada)  
@@ -43,6 +41,9 @@ La estructura While funciona en base de una condicion especifica, el programa pr
 **Tip**:   
 - Agregar un contador para que este sea la condición a cumplir
 - Plantear bien la sintaxis para que no se ejcute un bucle infinito
+### Estructura 
+<img width="255" height="156" alt="image" src="https://github.com/user-attachments/assets/3c8bc75a-9bc5-4330-b825-088b81114493" />
+
 
     
 
