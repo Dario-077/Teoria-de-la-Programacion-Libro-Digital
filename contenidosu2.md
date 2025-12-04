@@ -72,6 +72,8 @@ int main(){}
     return 0;
     }
 #### Diagrama de flujo  
+<img width="544" height="375" alt="image" src="https://github.com/user-attachments/assets/05f9fe15-1671-48b2-b721-be7a49647819" />
+
 
 ## Switch (Condicional casacada)  
 ### Definición  
@@ -83,6 +85,57 @@ OJO: Es importante agregar la palabra reservada "default" en caso de que no se a
 
   
 ### Ejercicio  
+#### Contextualizacion:
+Algoritmo que imprima el nombre de los días de la semana  
+#### Código en C  
+#include <stdio.h>
+
+//getchar: Libera espacio en la memoria (buenas practicas)
+
+
+int main(void){
+
+    int dia;
+
+    printf("Ingrese el dia de la semana en numero, del 1 al 7: \n");
+    scanf("%i", &dia);
+    getchar();
+
+    switch(dia){
+        case 1: 
+            printf("El dia es Lunes \n");
+            break;
+        
+        case 2:
+            printf("El dia es Martes \n");
+            break;
+
+        case 3:
+            printf("El dia es Miercoles \n");
+            break;
+
+        case 4:
+            printf("El dia es Juebebes \n");
+            break;
+
+        case 5:
+            printf("El dia es Viernesote \n");
+            break; 
+
+        case 6:
+            printf("el dia es Sabado \n");
+            break;
+
+        case 7:
+            printf("el dia es Domingo \n");
+            break;
+
+        default:
+            printf("Numero no valido");
+            break;
+
+    return 0;
+#### Diagrama de flujo  
 
 # Estructuras repetitivas o Bucles  
 ## While  
