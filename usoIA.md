@@ -5,7 +5,7 @@ Durante la elaboración de este portafolio digital utilicé herramientas de **in
 
 🧠 **Principales usos:**
 - ✍️ **Mejorar la redacción** de las definiciones y reflexiones, asegurando un estilo más **claro, formal y preciso**.  
-- 🎨 **Optimizar la presentación visual** del libro digital, incorporando **emojis, iconos y estructura en Markdown** para hacerlo más atractivo y legible.  
+- 🎨 **Optimizar la presentación visual** del libro digital, incorporando **emojis, iconos y estructura en Markdown** para hacerlo más atractivo y legible. 
   
 💬 La inteligencia artificial fue utilizada **como herramienta de apoyo académico**, respetando el proceso de aprendizaje individual y complementando mis propios aportes, análisis y conclusiones.
 
