@@ -7,7 +7,40 @@
 ### Estructura:
 <img width="507" height="248" alt="image" src="https://github.com/user-attachments/assets/bc019528-3b5b-4692-8310-210e5bf0513f" />
 
- ### Ejemplo   
+ ### Ejemplo práctico  
+ #### Contextualizacion: 
+Dados tres numeros decimales mostrar el promedio y si este es mayor o igual a 12
+mostrar el mensaje "Nota aprobatoria"  
+### Código en C  
+#include <stdio.h>
+int main(){
+
+    //Datos de entrada
+
+    float numero1, numero2, numero3, promedio;
+
+    printf("Ingrese la nota del numero 1: \n");
+    scanf("%f", &numero1);
+
+    printf("Ingrese la nota del numero 2: \n");
+    scanf("%f", &numero2);
+
+    printf("Ingrese la nota del numero 3: \n");
+    scanf("%f", &numero3);
+
+    //Proceso
+ 
+    promedio = ((numero1 + numero2 + numero3)/3);
+
+    if(promedio >= 12){
+        printf("Su promedio %f es aprobatorio", promedio);
+
+    }
+    return 0;
+}  
+
+#### Diagrama de flujo
+<img width="382" height="447" alt="image" src="https://github.com/user-attachments/assets/7bdf9cf2-6410-4120-943f-9f7b6efe0760" />
 
 ## If- else  (Condicional doble)  
 ### Definicion  
@@ -15,7 +48,10 @@ Es un complemento de la estructura "If", mantiene la lógica de ejecución media
 ### Estructura  
 <img width="496" height="257" alt="image" src="https://github.com/user-attachments/assets/9e228336-b186-4bbb-bab8-a073240f539e" />
 
-###  Ejemplo    
+###  Ejemplo  
+#### Contextualizacion:
+Dado como dato el sueldo del trabajador (en S), considere un aumento del 45% si su sueldo es 
+inferior a 1000, de lo contrario realiza un descuento del 10%. Mostrar el sueldo con aumento o descuento
 
 ## Switch (Condicional casacada)  
 ### Definición  
