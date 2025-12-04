@@ -147,7 +147,8 @@ La estructura While funciona en base de una condicion especifica, el programa pr
 - Agregar un contador para que este sea la condición a cumplir
 - Plantear bien la sintaxis para que no se ejcute un bucle infinito
 ### Estructura 
-<img width="255" height="156" alt="image" src="https://github.com/user-attachments/assets/3c8bc75a-9bc5-4330-b825-088b81114493" />   
+<img width="255" height="156" alt="image" src="https://github.com/user-attachments/assets/3c8bc75a-9bc5-4330-b825-088b81114493" />  
+
 ### Ejercicio  
 #### Contextualizacion
 Algoritmo que permita visualizar la tabla del 6
@@ -178,6 +179,7 @@ Un bucle que ejecuta un bloque de código hasta que la condicion evaluada sea Fa
 - Se recomienda usar un contador para que que este se encargue de actuar a forma de condición
 ### Estructura  
 <img width="457" height="231" alt="image" src="https://github.com/user-attachments/assets/3dcb0dfc-c8e5-42f3-b6c8-c884107bbc1e" />   
+
 ### Ejercicio  
 #### Contextualizacion
 Realizar la division de dos numeros enteros, validar el denominador diferente de 0
@@ -232,7 +234,10 @@ int main(){
     return 0;
 }
 
-#### Diagrama de flujo
+#### Diagrama de flujo  
+
+<img width="330" height="468" alt="image" src="https://github.com/user-attachments/assets/893abca1-337a-414f-ae91-b811195d5446" />
+
 
 
 
