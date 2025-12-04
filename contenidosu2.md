@@ -22,9 +22,10 @@ Es un complemento de la estructura "If", mantiene la lógica de ejecución media
 Condicional usado en caso de un algoritmo de seleccion multiple, es obligatorio asignarle un valor al que se regira el Switch, puede ser una variable, además, se le ingresara la lista de los posibles casos de respuestas y el bloque de código perteneciente a cada una de las mismas.  
 OJO: Es importante agregar la palabra reservada "default" en caso de que no se asigne ningun valor esperado y agregar su respectivas instrucciones. En adicion se agrega la palabra "break", para indicar el fin de un caso
 ### Estructura  
-switch(variable){
+
   <img width="420" height="306" alt="image" src="https://github.com/user-attachments/assets/e5a1a0a7-0316-42ae-b5cf-87030cfe84c6" />
 
+  
 ### Ejercicio  
 
 # Estructuras repetitivas o Bucles  
@@ -35,21 +36,26 @@ La estructura While funciona en base de una condicion especifica, el programa pr
 - Agregar un contador para que este sea la condición a cumplir
 - Plantear bien la sintaxis para que no se ejcute un bucle infinito
 ### Estructura 
-<img width="255" height="156" alt="image" src="https://github.com/user-attachments/assets/3c8bc75a-9bc5-4330-b825-088b81114493" />  
+<img width="255" height="156" alt="image" src="https://github.com/user-attachments/assets/3c8bc75a-9bc5-4330-b825-088b81114493" />   
+
+  
 ## Do- While  
 ### Definicion  
 Un bucle que ejecuta un bloque de código hasta que la condicion evaluada sea False. Es similar al While, sin embargo en este se toma en cuenta en que si o si se ejecutara al menos una vez las instrucciones, despues de esa primera ejecucion, se verificara si la condicion es correcta.  
 **TIP**:
 - Se recomienda usar un contador para que que este se encargue de actuar a forma de condición
 ### Estructura  
-<img width="457" height="231" alt="image" src="https://github.com/user-attachments/assets/3dcb0dfc-c8e5-42f3-b6c8-c884107bbc1e" />
+<img width="457" height="231" alt="image" src="https://github.com/user-attachments/assets/3dcb0dfc-c8e5-42f3-b6c8-c884107bbc1e" />  
+
 ## For 
 ### Definición 
 El bucle For, se usa especificamente cuando ya se saben las repeticiones precisas que requiere el algoritmo, a diferencia de la estructura anterior, aqui se colocan 3 datos importantes al inicio.  
 **Tip**
 - Se debe escoger muy bien la variable que cumplira la condicion, aumento e inializacion, se recomieda usar el contador
 ### Estructura  
-<img width="619" height="190" alt="image" src="https://github.com/user-attachments/assets/4dcb721c-f7a6-429e-b345-82ff47f2ff22" />
+<img width="619" height="190" alt="image" src="https://github.com/user-attachments/assets/4dcb721c-f7a6-429e-b345-82ff47f2ff22" />  
+
+### Ejercicio
 
 
 
