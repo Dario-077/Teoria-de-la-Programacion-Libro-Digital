@@ -167,7 +167,9 @@ int numero, producto, MULTIPLICADOR;
     }
     return 0;
     }
-#### Diagrama de flujo:  
+#### Diagrama de flujo:   
+<img width="442" height="467" alt="image" src="https://github.com/user-attachments/assets/879af00f-017f-42b0-9056-3903c2fa81d6" />
+
 
 ## Do- While  
 ### Definicion  
@@ -175,7 +177,33 @@ Un bucle que ejecuta un bloque de código hasta que la condicion evaluada sea Fa
 **TIP**:
 - Se recomienda usar un contador para que que este se encargue de actuar a forma de condición
 ### Estructura  
-<img width="457" height="231" alt="image" src="https://github.com/user-attachments/assets/3dcb0dfc-c8e5-42f3-b6c8-c884107bbc1e" />  
+<img width="457" height="231" alt="image" src="https://github.com/user-attachments/assets/3dcb0dfc-c8e5-42f3-b6c8-c884107bbc1e" />   
+### Ejercicio  
+#### Contextualizacion
+Realizar la division de dos numeros enteros, validar el denominador diferente de 0
+#### Código en C
+int main(){
+float divisor, cociente, dividendo;
+
+    printf("Ingrese el dividendo: \n");
+    scanf("%f", dividendo);
+
+    do{
+         printf("Ingrese el divisor: \n");
+         scanf("%f", divisor);
+    } while (divisor == 0);
+    
+    printf("Ingrese el divisor:\n ");
+    scanf("%f", divisor);
+    cociente = (dividendo / divisor) ;
+
+    printf("El cociente es: %f \n", cociente);
+
+    return 0;
+    
+}
+#### Diagrama de flujo  
+<img width="319" height="438" alt="image" src="https://github.com/user-attachments/assets/7563cdcb-92a3-466f-a975-9fe28d72d72c" />
 
 ## For 
 ### Definición 
@@ -185,8 +213,26 @@ El bucle For, se usa especificamente cuando ya se saben las repeticiones precisa
 ### Estructura  
 <img width="619" height="190" alt="image" src="https://github.com/user-attachments/assets/4dcb721c-f7a6-429e-b345-82ff47f2ff22" />  
 
-### Ejercicio
+### Ejercicio  
+#### Contextualizacion
+Obtener el factorial de "n" ingresado por el usuario  
+#### Código en C  
 
+int main(){
+ long long n, contad;
+    long long resul = 1;
+
+    printf("Ingrese un numero: \n");
+    scanf("%lld", &n);
+
+    for(contad = 1 ; contad <= n; contad ++){
+        resul = resul * contad; 
+    }
+    printf("El factorial es: %llu \n", resul);
+    return 0;
+}
+
+#### Diagrama de flujo
 
 
 
