@@ -34,7 +34,16 @@ switch(variable){
     break;
   default: Instruccion
 }  
-### Ejercicio
+### Ejercicio  
+
+# Estructuras repetitivas o Bucles  
+## While  
+### Definicion  
+La estructura While funciona en base de una condicion especifica, el programa primero evaluara si la condicion en cuestion es verdadera para comenzar a ejecutar las instrucciones, esto es importante de tomar en cuenta. El código se ejecutara siempre que la condición sea True y una vez esto cambie saldra del bucle  
+**Tip**:   
+- Agregar un contador para que este sea la condición a cumplir
+- Plantear bien la sintaxis para que no se ejcute un bucle infinito
+
     
 
 
