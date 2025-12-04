@@ -9,5 +9,6 @@
 # Principales dificultades  
 [Ir a las principales dificultades](dificultadesU2.md)  
 
-#
+# Tareas unidad 2  
+[Ir a las tareas](tareasU2.md)
 
