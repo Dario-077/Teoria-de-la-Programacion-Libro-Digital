@@ -51,7 +51,27 @@ Es un complemento de la estructura "If", mantiene la lógica de ejecución media
 ###  Ejemplo  
 #### Contextualizacion:
 Dado como dato el sueldo del trabajador (en S), considere un aumento del 45% si su sueldo es 
-inferior a 1000, de lo contrario realiza un descuento del 10%. Mostrar el sueldo con aumento o descuento
+inferior a 1000, de lo contrario realiza un descuento del 10%. Mostrar el sueldo con aumento o descuento  
+####  Código en C  
+#include <stdio.h>
+
+int main(){}
+
+    float sueldo, sueldo1, sueldo2;
+
+    printf("Ingrese el sueldo en Dolares estadounidenses: \n");
+    scanf("%f", &sueldo);
+
+    if(sueldo < 1000){
+        sueldo1 = ((sueldo * 0.45) + sueldo);
+        printf("El sueldo sera: %.2f  : \n", sueldo1);
+    } else{
+        sueldo2 = (sueldo - (sueldo * 0.1));
+        printf("El sueldo sera: %.2f  : \n", sueldo2);
+    }
+    return 0;
+    }
+#### Diagrama de flujo  
 
 ## Switch (Condicional casacada)  
 ### Definición  
