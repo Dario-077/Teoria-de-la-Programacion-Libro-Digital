@@ -1,7 +1,8 @@
 [Regresar a la página anterior](unidad2.md)  
 # Contextualizacion del problema:  
 ### Herramienta: Python  
-La "Lluvia de Números" 
+La "Lluvia de Números"  
+
 Elaboracion de programa que itere sobre los numeros del 1 al 100. El usuario ingresara 3 números para cada número, el programa debe verificar si cumple con ciertas condiciones (Explicadas posteriormente) y en lugar de imprimir el número, imprimir una palabra clave
 **CONDICIONES**  
 
@@ -26,5 +27,7 @@ Resultados esperados:
 - Azul
 - Morado
 - Verde
+<img width="784" height="268" alt="image" src="https://github.com/user-attachments/assets/f58155e5-2628-42db-a777-f3a95bd01a1d" />
+
 
 
