@@ -14,6 +14,8 @@ DIVISIBLE PARA 3: IMPRIME PALABRA "AMARILLO"
 
 NINGUNO : IMPRIME MORADO  
 # Diagrama de flujo simplificada  
+<img width="763" height="429" alt="image" src="https://github.com/user-attachments/assets/23e79772-398a-42d4-9e2b-29b0416d7650" />
+
 # Código en C    
 <img width="525" height="431" alt="image" src="https://github.com/user-attachments/assets/a4c3924e-731d-4b04-ac6e-ea62b07b0f6a" />  
 
