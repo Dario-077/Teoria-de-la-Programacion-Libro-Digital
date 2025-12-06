@@ -3,8 +3,10 @@
 ## 🧩APE 1: Aplicación de estructuras condicionales en la resolución de problemas.  
 
 📄[APE_1_Chillogallo.pdf](https://github.com/user-attachments/files/23998090/APE_1_Chillogallo.pdf)  
-✅En la presente actividad se invlucraron las estructuras condicionales, aplicando al algoritmo de calculo de promedio de la unidad 1, se le agrego una calificacion cualitativa, que mostraba un mensaje de acuerdo a la nota alcanzada.  
-Esto se logra usando el condicional if y especificando la nota que debe tener para recibi uno u otro mensaje  
+✅En la presente actividad se invlucraron las estructuras condicionales, aplicando al algoritmo de calculo de promedio de la unidad 1, se realizo lo siguiente: 
+-Agregar una calificacion cualitativa, que mostraba un mensaje de acuerdo a la nota alcanzada.  
+-Se logra usando el condicional if y especificando la nota que debe tener para recibi uno u otro mensaje
+- Los mensajes son: **Excelente, bueno, regular y deficiente**
 
 ## 🧩APE 2: APE 2. Aplicación de estructuras repetitivas en la resolución de problemas  
 
@@ -18,7 +20,7 @@ Esto se logra usando el condicional if y especificando la nota que debe tener pa
 ✅En el presente trabajo, consistio en una infografia que explique los condicionales tratados en clase "if, if-else, switch".  
 Se definio cada uno, su estructura y un ejemplo de cada uno en algoritmos en C  
 
-# 💻AA2: Cuadro comparativo entre las estructuras repetitivas  
+## 💻AA2: Cuadro comparativo entre las estructuras repetitivas  
 
 📄[aa_2_unidad2_Chillogallo.pdf](https://github.com/user-attachments/files/23998272/aa_2_unidad2_Chillogallo.pdf)  
 
