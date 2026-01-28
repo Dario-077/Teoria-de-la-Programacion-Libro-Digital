@@ -176,9 +176,28 @@ Para avanzar al siguiente módulo era necesario obtener una calificación mínim
     return 0;
     }
 
+En esta actividad realizamos un programa en lenguaje C permite calcular el valor a pagar por el uso de consolas de videojuegos (PlayStation, Xbox o Nintendo) según la cantidad de horas jugadas por cada cliente, y finalmente calcula el total recaudado por la atención de varios clientes.  
 
+Usamos la modularidad para optimizar la solucion  
 
+**Funciones:**  
+**1. calcularValorCliente:**
+Calcula el valor a pagar de un cliente individual según:
 
+-El tipo de consola utilizada
+
+-El número de horas jugadas
+
+-Además, acumula el valor en el total general mediante un puntero.  
+
+**2. alcularValorRecaudado**
+**Proposito:**
+
+Calcula el valor total recaudado tras atender a varios clientes.
+
+**3. int main**
+
+Indica la cantidad de clientes e invoca a las funciones
 
 
 
