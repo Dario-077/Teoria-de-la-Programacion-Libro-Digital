@@ -122,7 +122,14 @@ Ejercicios prácticos.
 📝 Evaluaciones obligatorias.
 
 Para avanzar al siguiente módulo era necesario obtener una calificación mínima, lo que garantizó la correcta comprensión de los contenidos antes de continuar.
-   
+
+## APE 2: Implementacion de funciones utlizando el paso de parametros por valor y referencia  
+
+[ver archivo en replit](https://replit.com/@dariochillogall/ape2u3c#ape2.c) 
+
+
+
+
 
 
 
