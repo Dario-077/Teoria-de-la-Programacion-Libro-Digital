@@ -15,5 +15,33 @@ Esto ademas de usarlo como buenas pr+acticas ayudara en mi vida profesional para
 En adición, se nos hablo de un nuevo tipo de dato, "la estructura de datos estaticos", conociendo el método para agregar listas, matrices y cubos, algo que sera muy util para expandir mis conocimientos
 
 
-# Tareas Entregadas  
+# Tareas Entregadas   
+## Proyecto academico integrador  
+
+[Black Mesa Bank Poster.pdf](https://github.com/user-attachments/files/24898899/Black.Mesa.Bank.Poster.pdf)  
+
+En grupos decidimos crear un programa para solucionar un problema. Se elaboro un sistema bancario que permite crear sesión con nombre de cuenta y un pin, además, iniciar sesión y hacer retiros y depositos    
+
+## APE 1  Construcción de funciones y procedimientos en un lenguaje de programación.
+
+[Chillogallo_ape1_U3.pdf](https://github.com/user-attachments/files/24898930/Chillogallo_ape1_U3.pdf)  
+
+Elaborar un programa aplicando modularidad para diseñar algoritmo que calcule el promedio final de la asignatura con un mensaje cuantitativo, se dividio en las funciones:  
+1. Funcion para cada componente de aprendizaje
+2. Funcion para calcular el promedio total
+3. int main
+
+## Fundamentos de Python 1  
+[Python_Essentials_1_certificate_dario-chillogallo-unl-edu-ec_534c76ed-b1cd-46e2-b665-235e4fb23651.pdf](https://github.com/user-attachments/files/24898965/Python_Essentials_1_certificate_dario-chillogallo-unl-edu-ec_534c76ed-b1cd-46e2-b665-235e4fb23651.pdf)  
+
+Se realizo un curso sobre "Fundamentos de Python 1" en Cisco, el cual abordaba los principales temas para iniciar en ese lenguaje de programacion.
+Hizo enfasis en:
+1. Lógica del lenguaje
+2. comandos principales
+3. bucles repetitivos y condicionales
+4. listas
+   
+
+
+
 
