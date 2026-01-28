@@ -24,6 +24,10 @@ Disponible en: https://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf
 
 🗒️[10] J. Baca y V. Villanueva, Aprender y practicar lenguaje de programacion Java, Ciudad Victoria: Universidad Autonoma de Tamaulipas, 2023.  
 
-🗒️[11] M. Ortuño, Universidad Rey Juan Carlos, 2022.
+🗒️[11] M. Ortuño, Universidad Rey Juan Carlos, 2022.  
+
+🗒️[12] M. Goin, Caminando junto al lenguaje C, Argentina: URNR, 2022.   
+
+🗒️[13] N. Moreno, Estructuras de datos estáticas, España: Publicaciones Didacticas, 2020.
 
 [Volver al index](index.md)
