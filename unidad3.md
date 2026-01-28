@@ -38,19 +38,19 @@ El sistema fue dividido en módulos para una mejor organización del código.
 
 **Módulo pre-login:**
 
-Menú principal.
+1. Menú principal.
 
-Crear cuenta.
+2. Crear cuenta.
 
-Salir del sistema.
+3. Salir del sistema.
 
 **Módulo post-login:**
 
-Depósitos.
+1. Depósitos.
 
-Retiros.
+2. Retiros.
 
-Consulta de estado de cuenta.
+3. Consulta de estado de cuenta.
 
 Esta división permitió aplicar de forma práctica el concepto de modularidad, facilitando la comprensión y mantenimiento del programa.    
 
@@ -74,15 +74,15 @@ El programa fue dividido en funciones independientes, una para cada componente d
 
 Cada función:
 
-1.Solicita las actividades realizadas durante el ciclo académico.
+1. Solicita las actividades realizadas durante el ciclo académico.
 
-2.Aplica controles mediante condicionales.
+2. Aplica controles mediante condicionales.
 
-3.Permite ingresar el número de tareas o actividades.
+3. Permite ingresar el número de tareas o actividades.
 
-4.Calcula el promedio correspondiente al componente.
+4. Calcula el promedio correspondiente al componente.
 
-5.Cálculo final y programa principal:
+5. Cálculo final y programa principal:
 
 Una función adicional se encarga de calcular el promedio final, tomando el promedio de cada unidad y aplicando un promedio general.
 
